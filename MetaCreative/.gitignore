@@ -1,0 +1,10 @@
+.env
+.streamlit/secrets.toml
+__pycache__/
+*.pyc
+images/
+generated_prompts/
+generation_history/
+feedback_data/
+user_logs/
+.DS_Store
